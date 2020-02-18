@@ -13,12 +13,12 @@ namespace ZadaniePiramida
             Console.Write("Podaj wysokość");
             String yw = Console.ReadLine();
 
-            int y = int.Parse(yw);
+            int wysokosc = int.Parse(yw);
 
 
-            for (int i = 0; i < y; i++)             
+            for (int i = 0; i < wysokosc; i++)             
             {
-                for (int j = y-i; j > (0.5*y); j--)         
+                for (int j = (wysokosc-i)/2; j > 0; j--)         
                 {
                     Console.Write(" ");
                 }
@@ -29,7 +29,7 @@ namespace ZadaniePiramida
                 Console.WriteLine();
 
             }
-           
+
 
             Console.ReadLine();
         }
