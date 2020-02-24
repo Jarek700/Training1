@@ -1,4 +1,3 @@
-C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\obj\Debug\netcoreapp3.1\ZadaniePiramida.csprojAssemblyReference.cache
 C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\obj\Debug\netcoreapp3.1\ZadaniePiramida.AssemblyInfoInputs.cache
 C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\obj\Debug\netcoreapp3.1\ZadaniePiramida.AssemblyInfo.cs
 C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\bin\Debug\netcoreapp3.1\ZadaniePiramida.exe
@@ -9,3 +8,4 @@ C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\bin\
 C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\bin\Debug\netcoreapp3.1\ZadaniePiramida.pdb
 C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\obj\Debug\netcoreapp3.1\ZadaniePiramida.dll
 C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\obj\Debug\netcoreapp3.1\ZadaniePiramida.pdb
+C:\Users\a70t9zz\OneDrive - 3M\C# szkolenie\ZadaniePiramida\ZadaniePiramida\obj\Debug\netcoreapp3.1\ZadaniePiramida.csprojAssemblyReference.cache
